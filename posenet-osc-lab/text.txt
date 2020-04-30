@@ -1,0 +1,10 @@
+When touch purple spheres:  - they disappear 
+							- sound
+
+When touch coins:   - they get bigger
+					- they change color
+					- they disappear 
+					- sound
+
+When touch blue capsules:   - they fall down 
+							- sound
